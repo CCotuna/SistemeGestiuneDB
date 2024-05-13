@@ -1,35 +1,16 @@
-# temp
+## Proiect Biblia
 
-This template should help get you started developing with Vue 3 in Vite.
+Acest proiect își propune să ofere acces simplu și rapid la texte din Biblie folosind API-ul de la bible-api.com. Principalele tehnologii utilizate în acest proiect sunt Node.js, Express, Axios, Vue 3 și Tailwind CSS.
 
-## Recommended IDE Setup
+### Descriere:
+Proiectul oferă funcționalități de căutare și afișare a versetelor din Biblie. Utilizatorii pot introduce un cuvânt cheie sau o frază în bara de căutare pentru a găsi versete relevante.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Tehnologii utilizate:
+- Node.js și Express pentru construirea și gestionarea serverului
+- Axios pentru efectuarea cererilor către API-ul bible-api.com
+- Vue 3 pentru dezvoltarea interfeței utilizatorului și gestionarea stării aplicației
+- Tailwind CSS pentru stilizarea componentelor și crearea unei interfețe atractive și responsive
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-yarn
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-yarn dev
-```
-
-### Compile and Minify for Production
-
-```sh
-yarn build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-yarn lint
-```
+### Funcționalități:
+- Căutare avansată a versetelor folosind cuvinte cheie sau fraze
+- Afișare a versetelor într-un format ușor de citit și navigat

@@ -20,7 +20,6 @@ const updateTime = () => {
 const intervalId = setInterval(updateTime, 1000);
 
 onMounted(updateTime);
-
 onBeforeUnmount(() => {
     clearInterval(intervalId);
 });

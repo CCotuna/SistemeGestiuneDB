@@ -1,0 +1,10 @@
+###
+#
+POST http://localhost:3000/send-emails
+Content-Type: application/json
+
+{
+    "subject": "Test Subject",
+    "text": "This is a test email message"
+}
+###

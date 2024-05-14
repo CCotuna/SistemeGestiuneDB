@@ -26,8 +26,8 @@ Acest repository conține o colecție de proiecte realizate în diverse tehnolog
 - **Tehnologii utilizate:** Vue 3, Firebase, Tailwind CSS
 
 ### 7. Mailing List - soon
-- **Descriere:** soon
-- **Tehnologii utilizate:** soon 
+- **Descriere:** Email Sender folosind Node.js
+- **Tehnologii utilizate:** Node.js
 
 ### 8. Bible API
 - **Descriere:** Acest proiect își propune să ofere acces simplu și rapid la texte din Biblie folosind API-ul de la bible-api.com.
